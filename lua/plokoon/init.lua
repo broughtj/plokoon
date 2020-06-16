@@ -1,5 +1,5 @@
 local function greet()
-	print "Greetings, to all you neovim Mother Futchers!"
+	print "Your emotions are clouding your judgement."
 end
 
 return {greet = greet}
